@@ -3,7 +3,8 @@
   "definitions": {
     "logging_id": {
       "type": "string",
-      "enum": ["a", "b"]
+      "enum": ["a", "b"],
+      "description": "hello world! Pete"
     }
   }
 }
